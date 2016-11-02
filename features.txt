@@ -1,0 +1,25 @@
+Features:
+
+*Autoarmor: beste Rüstung automat. anlegen
+*Autowalk: Sprinten
+*Dolphin: nach Eintauchen ins Wasser automat. auftauchen
+*Teleporter: zum nächsten Mob teleportieren
+*Yescheat:
+*Bunnyhopp: höher springen
+*X-Ray: durch Blöcke hindurchschauen
+*Kaboom: Explosion herbeiführen, ohne eigenen Schaden
+*Fastbow: schneller Pfeile abschiessen
+*Fasteat: schneller und automat. essen
+*BowAimbot: automat. zielen
+*KillAura:
+*Nuker: schnelles zerstören
+*Setpack: 
+*NoCell:
+*Tracer:
+*AutoSword: automat. Angriff mit dem Schwert
+*AntiPoison:
+*NameTag:
+*Spider: an der Wand hochklettern können
+
+
+
